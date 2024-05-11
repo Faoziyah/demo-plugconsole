@@ -1,4 +1,4 @@
-const baseURL = "https://demoapi.primusplug.io"
+const baseURL = "https://demoapi.fawzeeglobal.com.ng"
 
 const projectApi = {
   addTask: async (body) => {
